@@ -1,6 +1,6 @@
 # ☕ Coffee Machine
 A console-based Coffee Machine Simulator written in Python.
-This program mimics a real coffee vending machine — allowing users to select a drink, handle payments, and track available resources.
+This program mimics a real coffee vending machine, allowing users to select a drink, handle payments, and track available resources.
 
 # ✨ Features
   - Interactive command-line interface
