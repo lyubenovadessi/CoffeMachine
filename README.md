@@ -23,16 +23,15 @@ This program mimics a real coffee vending machine — allowing users to select a
     python main.py
 
 # 🧠 Concepts Practiced
-  Object-Oriented Programming (OOP)
-  Class composition and interaction
-  Exception handling (try/except)
-  Input validation
-  Loops and conditionals
-  Modular Python design
+  - Object-Oriented Programming (OOP)
+  - Class composition and interaction
+  - Exception handling (try/except)
+  - Input validation
+  - Loops and conditionals
+  - Modular Python design
 
 # 🧰 Possible Improvements
-  Add new drink types dynamically
-  Save report data to a file
-  Implement a user interface (Tkinter or web-based)
-
-Add refill functionality for resources
+  - Add new drink types dynamically
+  - Save report data to a file
+  - Implement a user interface (Tkinter or web-based)
+  - Add refill functionality for resources
